@@ -9,3 +9,7 @@ def sub (a,b):
 
 def good_morning(user):
     return f"Good morning {user}"
+
+def div(a,b):
+    return(a/b)
+
